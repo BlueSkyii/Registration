@@ -1,0 +1,5 @@
+C:\Yousef\C#\Projects\Register\Reg\bin\Release\net8.0\app.publish\Reg.exe
+C:\Yousef\C#\Projects\Register\Reg\bin\Release\net8.0\app.publish\Reg.dll
+C:\Yousef\C#\Projects\Register\Reg\bin\Release\net8.0\app.publish\Reg.deps.json
+C:\Yousef\C#\Projects\Register\Reg\bin\Release\net8.0\app.publish\Reg.runtimeconfig.json
+C:\Yousef\C#\Projects\Register\Reg\bin\Release\net8.0\app.publish\Reg.pdb
